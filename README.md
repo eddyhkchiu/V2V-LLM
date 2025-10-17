@@ -1,3 +1,8 @@
+# Update!
+
+The code and dataset of V2V-LLM are merged with our follow-up work [V2V-GoT](https://eddyhkchiu.github.io/v2vgot.github.io/). 
+Please use the code and dataset at [V2V-GoT](https://github.com/eddyhkchiu/V2V-GoT). Thanks!
+
 <div align="center">
 
 # V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models
