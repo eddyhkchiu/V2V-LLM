@@ -5,7 +5,7 @@ Please use the code and dataset at [V2V-GoT](https://github.com/eddyhkchiu/V2V-G
 
 <div align="center">
 
-# V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multi-Modal Large Language Models
+# V2V-LLM: Vehicle-to-Vehicle Cooperative Autonomous Driving with Multimodal Large Language Models
 
 Hsu-kuang Chiu<sup>1,2</sup>, Ryo Hachiuma<sup>1</sup>, Chien-Yi Wang<sup>1</sup>, Stephen F. Smith<sup>2</sup>, Yu-Chiang Frank Wang<sup>1</sup>, Min-Hung Chen<sup>1</sup>
 
